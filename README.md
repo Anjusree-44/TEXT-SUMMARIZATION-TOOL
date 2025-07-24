@@ -27,5 +27,5 @@ The AI Text Summarization Tool is a desktop-based application built with Python 
 
 # OUTPUT
 
-<img width="1920" height="1080" alt="c 1 2" src="https://github.com/user-attachments/assets/434d28d7-e1f8-4537-bd5b-7b30443ff529" />
 <img width="1920" height="1080" alt="c 1 1" src="https://github.com/user-attachments/assets/e452a847-f926-45b6-9de3-dd3bb518541f" />
+<img width="1920" height="1080" alt="c 1 2" src="https://github.com/user-attachments/assets/434d28d7-e1f8-4537-bd5b-7b30443ff529" />
